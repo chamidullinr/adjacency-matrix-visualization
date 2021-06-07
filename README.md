@@ -29,7 +29,7 @@ Packages with algorithms for reordering the adjacency matrix:
 
 First, install required packages using `pip`.
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Then run the application.
